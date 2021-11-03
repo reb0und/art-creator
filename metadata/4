@@ -1,0 +1,40 @@
+{
+  "tokenId": 4,
+  "name": "My NFT #4",
+  "description": "My NFT description.",
+  "image": "https://base-url-to-my-nft-images.com/4",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Baby Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Baseline",
+      "value": "0"
+    },
+    {
+      "trait_type": "Face",
+      "value": "idk"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "White"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Fishing Rod"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bucket"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy"
+    }
+  ]
+}

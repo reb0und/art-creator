@@ -1,0 +1,40 @@
+{
+  "tokenId": 3,
+  "name": "My NFT #3",
+  "description": "My NFT description.",
+  "image": "https://base-url-to-my-nft-images.com/3",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Baby Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Baseline",
+      "value": "0"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "White"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Balloon"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bucket"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Neutral"
+    }
+  ]
+}

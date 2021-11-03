@@ -1,0 +1,40 @@
+{
+  "tokenId": 1,
+  "name": "My NFT #1",
+  "description": "My NFT description.",
+  "image": "https://base-url-to-my-nft-images.com/1",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Baby Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Brown"
+    },
+    {
+      "trait_type": "Baseline",
+      "value": "0"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Fishing Rod"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bucket"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Neutral"
+    }
+  ]
+}

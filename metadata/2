@@ -1,0 +1,40 @@
+{
+  "tokenId": 2,
+  "name": "My NFT #2",
+  "description": "My NFT description.",
+  "image": "https://base-url-to-my-nft-images.com/2",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Baby Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Baseline",
+      "value": "0"
+    },
+    {
+      "trait_type": "Face",
+      "value": "idk"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "White"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Balloon"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy"
+    }
+  ]
+}
